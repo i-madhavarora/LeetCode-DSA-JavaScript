@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="LeetCode DSA Solutions in JavaScript" src="https://github.com/user-attachments/assets/00d44f24-3174-4f02-8d56-fc43504f0c6e" />
+
 # LeetCode-DSA-JavaScript
 A collection of LeetCode DSA solutions in JavaScript, covering essential data structures, algorithms, and coding interview problems with clean, well-organized solutions.
 
