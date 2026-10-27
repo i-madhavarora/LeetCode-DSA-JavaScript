@@ -23,9 +23,22 @@ A collection of LeetCode DSA solutions in JavaScript, covering essential data st
 |---|---------|------------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [JavaScript](https://github.com/i-madhavarora/LeetCode-DSA-JavaScript/blob/main/0001-two-sum.js)|
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [JavaScript](https://github.com/i-madhavarora/LeetCode-DSA-JavaScript/blob/main/0088-merge-sorted-array.js)|
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [JavaScript](https://github.com/i-madhavarora/LeetCode-DSA-JavaScript/blob/main/0121-best-time-to-buy-and-sell-stock.js)|
 
 ## Dynamic Programming Problems
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [JavaScript](https://github.com/i-madhavarora/LeetCode-DSA-JavaScript/blob/main/0121-best-time-to-buy-and-sell-stock.js)|
+
+## Two Pointers Problems
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [JavaScript](https://github.com/i-madhavarora/LeetCode-DSA-JavaScript/blob/main/0088-merge-sorted-array.js)|
+
+## Hash Table Problems
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [JavaScript](https://github.com/i-madhavarora/LeetCode-DSA-JavaScript/blob/main/0001-two-sum.js)|
